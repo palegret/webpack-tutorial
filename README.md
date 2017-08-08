@@ -1,4 +1,4 @@
-# Webpack Tutorial
+# Webpack v1 Tutorial
 
 __From "Getting Started" tutorial__
 (https://webpack.github.io/docs/tutorials/getting-started/)
